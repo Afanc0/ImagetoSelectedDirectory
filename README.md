@@ -9,7 +9,7 @@ is then displayed as an item in the combobox. In 'Enter Image,' you would enter 
 Before executing/entering the address using the 'Enter' button, you must input the desired file name under 'File Name.' After entering, the status of the execution is displayed
 on the bottom left-hand corner: 'Success' or 'Failed.' Given a 'Success' status, the image would be located in the provided directory.
 
-<br />
+<br/>
 
 Source Code belongs to me: https://github.com/Afanc0
 Any modifications and/or any form of publication of my software and code must credit me! :)
