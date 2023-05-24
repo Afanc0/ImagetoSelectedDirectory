@@ -2,7 +2,7 @@
 
 ## C++/CLI with .NET Framework
 ## Release Version 05/24/2023 -> v2.1 
-### ImagetoSelectedDirectoy software was developed in inspiration to better file management.
+### ImagetoSelectedDirectoy software was developed in inspiration to perform cache-like behavior for file explorer
 
 ImagetoSelectedDirectory receives a path to the directory/folder, provided by you, and stores the path in the file named CommonsDirectory; the extented path to the directory 
 is then displayed as an item in the combobox. In 'Enter Image,' you would enter the image address of an image found on the web: hover over image -> right click -> copy image address. 
