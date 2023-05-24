@@ -1,7 +1,7 @@
 # ImagetoSelectedDirectory
 
 ## C++/CLI with .NET Framework
-## Early Version -> v2.1 
+## Release Version 05/24/2023 -> v2.1 
 ### ImagetoSelectedDirectoy software was developed in inspiration to better file management.
 
 ImagetoSelectedDirectory receives a path to the directory/folder, provided by you, and stores the path in the file named CommonsDirectory; the extented path to the directory 
