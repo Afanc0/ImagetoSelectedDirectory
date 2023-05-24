@@ -12,5 +12,5 @@ on the bottom left-hand corner: 'Success' or 'Failed.' Given a 'Success' status,
 -----
 
 Source Code belongs to me: https://github.com/Afanc0 <br>
-Any modifications and/or any form of publication of my software and code must credit me! <br>
+Any modification and/or any form of publication of my software and code must credit me! <br>
 :)
